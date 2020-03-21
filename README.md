@@ -160,3 +160,10 @@
         android:pivotX="50%"/> // 定义中心y
 </set>
     ```
+---
+
+这项目是观看BiLiBiLi某个up主的视频编写的，这里附上视频地址.
+
+[视频地址](https://www.bilibili.com/video/av58510829/?spm_id_from=333.788.b_7265636f5f6c697374.2)
+
+---
