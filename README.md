@@ -9,6 +9,7 @@
         当然还是要去掉那个勾。
 
     <img src="https://yi-sheep.github.io/NavigionDemo/Res/image/Navigation_2.png">
+    
     来看看我的布局吧，提供参考。
 
     home碎片的布局
