@@ -23,7 +23,7 @@ public class MainActivity extends AppCompatActivity {
 
     @Override
     public boolean onSupportNavigateUp() {
-        mController.navigate(R.id.action_detailFragment_to_homeFragment);
+        mController.navigate(R.id.action_detailFragment_to_homeFragment); // 这里将连接线传入，是因为我添加了动画
         return true;
     }
 }
